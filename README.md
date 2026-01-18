@@ -22,3 +22,5 @@ This project analyzes NBA player performance using Excel to create an objective 
 - Excel modeling
 - Data storytelling
 - Analytical thinking
+  
+This project highlights data storytelling by converting raw NBA statistics into structured insights that support objective decision-making.
